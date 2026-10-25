@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "20261015_101605",
+        "image_path": "feedback_data\\img_20261015_101605.jpg",
+        "caption": " The image shows a person with dark hair, wearing a white shirt, standing in front of a plain wall. The individual appears to be indoors, with a ceiling light visible above. There are no immediate obstacles or hazards visible on the ground. The person is looking directly at the camera, and there is no visible text or labels in the image. ",
+        "feedback": "correct"
+    },
+    {
+        "timestamp": "20261015_103419",
+        "image_path": "feedback_data\\img_20261015_103419.jpg",
+        "caption": " The image shows a person holding up five fingers, indicating the number five. The individual appears to be indoors, with a wall and a ceiling fan visible in the background. The person is standing in the center of the frame, and there are no immediate obstacles or hazards on the ground. The focus is on the person's hand, and there is no visible text or labels in the image. ",
+        "feedback": "correct"
+    },
+    {
+        "timestamp": "20261015_104254",
+        "image_path": "feedback_data\\img_20261015_104254.jpg",
+        "caption": " In the image, there is a person standing in the center, holding a phone. The person appears to be indoors, with a wall and a door visible in the background. The phone is held in front of the person, suggesting they might be taking a selfie or using the device. The ground is not clearly visible, but there are no immediate obstacles or hazards that can be discerned. There is no visible text or labels in the image. ",
+        "feedback": "correct"
+    },
+    {
+        "timestamp": "20261015_111335",
+        "image_path": "feedback_data\\img_20261015_111335.jpg",
+        "caption": " The image shows a person sitting in front of a camera. The individual appears to be giving a thumbs-up gesture with their right hand, which is raised above their head. The person has short hair and is wearing a light-colored shirt. In the background, there is a room with a window and curtains, and a piece of furniture that looks like a bed or couch. The room has a casual, lived-in feel, with no immediate obstacles or hazards visible on the ground. There is no visible text or labels in the image. ",
+        "feedback": "correct"
+    },
+    {
+        "timestamp": "20261017_024447",
+        "image_path": "feedback_data\\img_20261017_024447.jpg",
+        "caption": " The image displays a chessboard with pieces in various positions. The chessboard is set against a green background, and the pieces are arranged in a standard chess layout. The image is split into two parts, with the top half showing a chessboard with pieces in motion, suggesting a game in progress, and the bottom half showing a chessboard with pieces stationary, indicating a paused or completed game. There are no immediate obstacles or hazards visible on the ground. The visible text or labels include the names of the pieces, such as \"Rook,\" \"Knight,\" \"Bishop,\" \"Queen,\" and \"King,\" as well as the numbers of the squares on the board. The image also contains a chat interface on the left side, with messages and usernames visible, indicating an online chess game. ",
+        "feedback": "correct"
+    }
+]
